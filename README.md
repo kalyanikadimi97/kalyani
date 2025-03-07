@@ -98,7 +98,6 @@
     </style>
 </head>
 <body>
-
     <header>
         <h1>Devi Kalyani</h1>
         <p>Web Developer & Designer</p>
